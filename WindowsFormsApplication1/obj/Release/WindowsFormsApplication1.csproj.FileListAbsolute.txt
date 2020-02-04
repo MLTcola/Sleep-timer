@@ -1,0 +1,7 @@
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\MY\C#程序\winform程序\定时关机程序\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
